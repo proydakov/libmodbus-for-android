@@ -6,8 +6,6 @@ To compile libmodbus for android you may use one of the following NDKs:
 - NDK r7 customized by [CrystaX](http://www.crystax.net/android/ndk.php).
 * other SDK is not tested yet. you can help =)
 
-# Quick Start
-
 ## Dependencies
 
  * NDK   ([customized by CrystaX](http://www.crystax.net/android/ndk.php))
@@ -15,6 +13,8 @@ To compile libmodbus for android you may use one of the following NDKs:
  * CMake (from repo or [cmake from official website](http://www.cmake.org/))
 
 ## Usage
+
+Export environment variable ANDROID_NDK=/absolute/path/to/the/android-ndk
 
     ./build-android.sh
 
