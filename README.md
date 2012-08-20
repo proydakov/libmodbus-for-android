@@ -1,5 +1,5 @@
 # libmodbus for android
-libmodbus for android is a set of tools to compile libmodbus library (http://github.com/stephane/libmodbus) for the Android platform.
+Libmodbus for android is a set of tools to compile libmodbus library (http://github.com/stephane/libmodbus) for the Android platform.
 
 To compile libmodbus for android you may use one of the following NDKs:
 
@@ -18,7 +18,7 @@ To compile libmodbus for android you may use one of the following NDKs:
 
     ./build-android.sh
 
-    While working in cmake-gui to select the installation directory, and other settings different from default settings.
+While working in cmake-gui to select the installation directory, and other settings different from default settings.
 
 ## Troubleshooting
 
